@@ -13,7 +13,7 @@ In today's world, the availability and management of medicines play a crucial ro
 ## Problem Statement
 The problem addressed in this project is the need for an efficient and organized system to manage the operations of a medical store. The existing manual processes for tracking medicines, sales, employee details, and customer records are time-consuming and prone to errors. There is a lack of a centralized system that can effectively handle the inventory, streamline purchases from multiple companies, maintain accurate sales records, and manage employee and customer information. This project aims to develop a desktop application that tackles these challenges by providing a comprehensive solution for the administration and management of a medical store's activities.
 
-## Functionality
+## Features
 
 - Inventory management for tracking medicine stocks.
 - Purchase management for efficient procurement from multiple companies.
