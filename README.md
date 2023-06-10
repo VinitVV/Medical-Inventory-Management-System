@@ -27,12 +27,13 @@ The problem addressed in this project is the need for an efficient and organized
 - Scalability to accommodate the needs of a growing medical store.
 
 ## Run Locally
-Download file in zip 
-
-unzip file and open folder in IDE(VS Code or any other)
-
-Run the MedicalInventory.java file
-
+1. Download the ZIP file containing the project code.
+2. Extract the contents of the ZIP file to a desired location on your computer.
+3. Open your preferred integrated development environment (IDE), such as VS Code.
+4. Open the extracted project folder in the IDE.
+5. Locate the "MedicalInventory.java" file within the project folder.
+6. Run the "MedicalInventory.java" file using the IDE's built-in run or debug functionality.
+7. Observe the output or follow the application's instructions, if any, in the IDE's console or output window.
 
 ## Screenshots
 ![S-1](https://github.com/VinitVV/Medical-Inventory-Management-System/assets/96524088/279c6e9c-2ae1-46ed-8d1c-afbaf1dde457)
