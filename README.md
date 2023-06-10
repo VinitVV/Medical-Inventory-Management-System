@@ -16,15 +16,15 @@ The problem addressed in this project is the need for an efficient and organized
 ## Functionality
 
 - Inventory management for tracking medicine stocks.
--Purchase management for efficient procurement from multiple companies.
--Sales tracking to record and monitor sales transactions.
--Employee management for tracking employee details and assigning roles.
--Customer management for storing customer information and facilitating purchases.
--Database management for adding, editing, and deleting records.
--User-friendly interface for easy navigation and operation.
--Data security measures to protect sensitive information.
--Reporting and analytics capabilities for generating insights and reports.
--Scalability to accommodate the needs of a growing medical store.
+- Purchase management for efficient procurement from multiple companies.
+- Sales tracking to record and monitor sales transactions.
+- Employee management for tracking employee details and assigning roles.
+- Customer management for storing customer information and facilitating purchases.
+- Database management for adding, editing, and deleting records.
+- User-friendly interface for easy navigation and operation.
+- Data security measures to protect sensitive information.
+- Reporting and analytics capabilities for generating insights and reports.
+- Scalability to accommodate the needs of a growing medical store.
 
 ## Run Locally
 Download file in zip 
